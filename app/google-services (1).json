@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620858264562",
+    "project_id": "facefit-ar-c5047",
+    "storage_bucket": "facefit-ar-c5047.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620858264562:android:eed0888f7e5fb9e721396b",
+        "android_client_info": {
+          "package_name": "com.example.facefitar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620858264562-05b4ec7hop20lqkfa3de476181j1tp99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgxGIZR3dz9OeBBD__XYqmuEVjduePpw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620858264562-05b4ec7hop20lqkfa3de476181j1tp99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
